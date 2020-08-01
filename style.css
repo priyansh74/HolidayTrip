@@ -1,0 +1,383 @@
+
+.nav{
+  height: 80px;
+  background: black;
+  margin: 0;
+  width: 1518px;
+  position:absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+
+  }
+body{
+  margin: 0;
+background-color: #d1cebd;
+}
+
+.navhe{
+  color: #f3c623;
+  position: absolute;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+  top:13px;
+  left:180px;
+  cursor: pointer;
+}
+.yellow{
+  position: absolute;
+  left:820px;
+  height: 80px;
+  width: 100px;
+  background: #ffcd3c;
+}
+.x1{
+  margin: 0;
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.home{
+  position: absolute;
+  top:45px;
+  left: 845px;
+  color: black;
+  cursor: pointer;
+}
+.about{
+  position: absolute;
+  top:45px;
+  left: 960px;
+  color: grey;
+  cursor: pointer;
+
+}
+.tours{
+  position: absolute;
+  top:45px;
+  left: 1070px;
+  color: grey;
+  cursor: pointer;
+
+}
+.contact{
+  position: absolute;
+  top:45px;
+  left: 1200px;
+  color: grey;
+  cursor: pointer;
+}
+.secondhead{
+  position: absolute;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  top:200px;
+  left:410px;
+
+  font-size: 70px;
+
+
+}
+.thirdhead{
+  position: absolute;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  top:345px;
+  left: 600px;
+  font-size: 30px;
+}
+.secondhe{
+  color:#ffcd3c;
+}
+.button1{
+  position: absolute;
+  background-color: #f3c623;
+  top:445px;
+  left:680px;
+  width:160px;
+  height: 55px;
+  cursor:pointer;
+  color: white;
+  border: 0;
+}
+.back1{
+
+  position: absolute;
+  width: 1530px;
+  height: 690px;
+filter: blur(15px);
+left:-15px;
+
+}
+hr{
+  height: 10px;
+  width: 1517px;
+  background-color: black;
+margin: 0;
+  position: relative;
+  border: none;
+}
+.background{
+  position:absolute;
+  top:50px;
+ height: 750px;
+ width: 1500px;
+
+ margin: 0;
+}
+.hotel{
+  position: absolute;
+  height: 400px;
+  width: 300px;
+  background-color: white;
+  top:720px;
+  left:170px;
+
+}
+.Car{
+  position: absolute;
+  height: 60px;
+  width: 300px;
+  background-color:#32ff6a ;
+  top:337px;
+  }
+.hotel2{
+  position: absolute;
+  height: 400px;
+  width: 300px;
+  background-color: white;
+  top:720px;
+  left:570px;
+}
+.Car2{
+  position: absolute;
+  height: 60px;
+  width: 300px;
+  background-color:#32ff6a ;
+  top:337px;
+}
+.hotel3{
+  position: absolute;
+  height: 400px;
+  width: 300px;
+  background-color: white;
+  top:720px;
+  left:970px;
+}
+.Car3{
+  position: absolute;
+  height: 60px;
+  width: 300px;
+  background-color:#32ff6a ;
+  top:337px;
+}
+.x:hover{
+  background-color:#52de97;
+  cursor: pointer;
+}
+.x{
+  width :320px;
+}
+.y{
+  width: 320px;
+  background-color: #32ff6a ;
+
+}
+
+.img1{
+  position: absolute;
+  height: 340px;
+  width: 320px;
+  }
+.img2{
+  position: absolute;
+  height: 340px;
+  width: 320px;
+
+}
+.img3{
+  position: absolute;
+  height: 340px;
+  width: 320px;
+
+}
+.line{
+  position: absolute;
+  top:1250px;
+  height: 1.8px;
+  width: 400px;
+  left:120px;
+  background-color: #393e46;
+}
+.line1{
+  position: absolute;
+  top:1250px;
+  height: 1.8px;
+  width: 400px;
+  left:1000px;
+  background-color: #393e46;
+}
+.subhead{
+  position: absolute;
+  top:1200px;
+  left:645px;
+  font-family: 'Montserrat', sans-serif;
+  color: #3f3f44;
+  font-weight: lighter;
+
+
+}
+
+.p1{
+  position: absolute;
+ color: white;
+top:350px;
+left:30px;
+font-family: 'Montserrat', sans-serif;
+font-size: 15px;
+}
+.p2{
+  position: absolute;
+  top:350px;
+  left:200px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+.f1{
+  position: absolute;
+  height: 350px;
+  width: 220px;
+  background-color: white;
+  top:1300px;
+  left: 180px;
+}
+.f2{
+  position: absolute;
+  height: 350px;
+  width: 220px;
+  background-color: white;
+  top:1300px;
+  left: 500px;
+}
+.f3{
+  position: absolute;
+  height: 350px;
+  width: 220px;
+  background-color: white;
+  top:1300px;
+  left: 820px;
+}
+.f4{
+  position: absolute;
+  height: 350px;
+  width: 220px;
+  background-color: white;
+  top:1300px;
+  left: 1140px;
+}
+.hr11{
+  position: absolute;
+  transform: rotate(90deg);
+  width: 48px;
+  border-width: thin;
+  background-color: #888888;
+  top:325px;
+  height: 1px;
+  left:25px;
+}
+.hr12{
+  position: absolute;
+  transform: rotate(90deg);
+  width: 48px;
+  border-width: thin;
+  background-color: #888888;
+  top:325px;
+  height: 1px;
+  left:148px;
+
+}
+.hr1{
+  position: absolute;
+  width: 220px;
+  border-width: thin;
+  background-color: #888888;
+  top:300px;
+  height: 1px;
+
+}
+.heart{
+  position: absolute;
+  height: 20px;
+  width: 20px;
+left:14px;
+top:315px;
+}
+.share{
+  position: absolute;
+  height: 22px;
+  width: 22px;
+  left:185px;
+  top:310px;
+  cursor: pointer;
+}
+.places{
+  position: absolute;
+  width: 220px;
+  height: 250px;
+  cursor: pointer;
+}
+.end{
+position: absolute;
+  height: 50px;
+  background-color: black;
+  top:1800px;
+width: 1518px;
+}
+.endli{
+  position: absolute;
+  color: white;
+  left:550px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+.refer{
+  text-decoration: none;
+  color: yellow;
+}
+.nameof{
+  position: absolute;
+  left:82px;
+  top:300px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  font-weight: lighter;
+  cursor: pointer;
+}
+.right{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top:1430px;
+  left: 1385px;
+}
+.next11{
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  left:1218px;
+  top:150px;
+
+}
+.location{
+  position: absolute;
+  left: 10px;
+  top:250px;
+  font-family: 'Montaga', serif;
+  color: #888888;
+
+
+}
+.button1:hover{
+  background-color: #fb9224;
+}
