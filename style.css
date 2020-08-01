@@ -139,7 +139,7 @@ margin: 0;
   position: absolute;
   height: 60px;
   width: 300px;
-  background-color:#32ff6a ;
+  background-color:#222831;
   top:337px;
   }
 .hotel2{
@@ -154,7 +154,7 @@ margin: 0;
   position: absolute;
   height: 60px;
   width: 300px;
-  background-color:#32ff6a ;
+  background-color:#222831 ;
   top:337px;
 }
 .hotel3{
@@ -169,11 +169,11 @@ margin: 0;
   position: absolute;
   height: 60px;
   width: 300px;
-  background-color:#32ff6a ;
+  background-color:#222831 ;
   top:337px;
 }
 .x:hover{
-  background-color:#52de97;
+  background-color:#888888;
   cursor: pointer;
 }
 .x{
@@ -181,7 +181,7 @@ margin: 0;
 }
 .y{
   width: 320px;
-  background-color: #32ff6a ;
+  background-color: #888888 ;
 
 }
 
